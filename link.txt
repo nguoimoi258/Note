@@ -1,2 +1,8 @@
-http://tugdualgrall.blogspot.com/2017/01/getting-started-with-mqtt-and-java.html
-http://emqtt.com/clients
++MQTT content:
+	https://www.hivemq.com/blog/mqtt-essentials-part-4-mqtt-publish-subscribe-unsubscribe
++ Send and receive message MQTT protocol
+	http://tugdualgrall.blogspot.com/2017/01/getting-started-with-mqtt-and-java.html
+	https://github.com/tgrall/mqtt-sample-java
+	http://emqtt.com/clients
+	https://www.youtube.com/watch?v=_RUC9Epyjg8
+
