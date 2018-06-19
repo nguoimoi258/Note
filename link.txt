@@ -1,0 +1,2 @@
+http://tugdualgrall.blogspot.com/2017/01/getting-started-with-mqtt-and-java.html
+http://emqtt.com/clients
