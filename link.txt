@@ -1,8 +1,13 @@
 +MQTT content:
 	https://www.hivemq.com/blog/mqtt-essentials-part-4-mqtt-publish-subscribe-unsubscribe
+	https://www.slideshare.net/wso2.org/io-t-referencearchitecturewebinar  (slide 25)
+
 + Send and receive message MQTT protocol
 	http://tugdualgrall.blogspot.com/2017/01/getting-started-with-mqtt-and-java.html
 	https://github.com/tgrall/mqtt-sample-java
 	http://emqtt.com/clients
 	https://www.youtube.com/watch?v=_RUC9Epyjg8
 
++ Authoriziont with emqtt
+	https://github.com/emqtt/emq-docs-en/blob/master/source/guide.rst
+	http://emqtt.io/docs/v2/guide.html#allow-anonymous
